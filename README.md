@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZvaDBwZXZoNTA3NG9wY3dld3g5M3NsdWNkaHNxcnptdnB5Mmk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hO/giphy.gif" width="200"/>
-  <h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
-  <h3 align="center">Un futuro Desarrollador Web y de Software, construyendo mi camino línea por línea de código.</h3>
+  <h1 align="center">Hola, soy Nahuel 👋</h1>
+  <h3 align="center">Un futuro programador, construyendo mi camino.</h3>
 </div>
 
 ---
 
 <div id="about-me" align="center">
-  <h2>🌱 Mi Viaje como Programador</h2>
+  <h2> Mi Viaje como Programador</h2>
   <p>
     Actualmente estoy inmerso en el fascinante mundo del desarrollo, aprendiendo las tecnologías fundamentales para dar vida a ideas. Mi objetivo es dominar tanto el desarrollo frontend como el backend para crear aplicaciones completas y funcionales.
   </p>
@@ -16,7 +16,7 @@
 ---
 
 <div id="tech-learning">
-  <h2>📚 Tecnologías que estoy aprendiendo</h2>
+  <h2> Tecnologías que estoy aprendiendo</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -28,13 +28,13 @@
 ---
 
 <div id="my-goals">
-  <h2>🎯 Mis Próximos Pasos</h2>
+  <h2> Mis Próximos Pasos</h2>
   <ul>
-    <li> solidified>✅ Fortalecer mis bases en <strong>HTML</strong> y <strong>CSS</strong> para crear interfaces web atractivas.</li>
-    <li>⚙️ Profundizar en <strong>Java</strong> para entender la programación orientada a objetos y el desarrollo de backend robusto.</li>
-    <li>🐍 Aplicar mis conocimientos de <strong>Python</strong> para crear mis primeros scripts y proyectos de lógica de datos.</li>
-    <li>🚀 Construir mi primer proyecto web completo que combine estas tecnologías.</li>
-    <li>🤝 ¡Colaborar en un proyecto open-source para aprender de la comunidad!</li>
+    <li> solidified> Fortalecer mis bases en <strong>HTML</strong> y <strong>CSS</strong> para crear interfaces web atractivas.</li>
+    <li> Profundizar en <strong>Java</strong> para entender la programación orientada a objetos y el desarrollo de backend robusto.</li>
+    <li> Aplicar mis conocimientos de <strong>Python</strong> para crear mis primeros scripts y proyectos de lógica de datos.</li>
+    <li> Construir mi primer proyecto web completo que combine estas tecnologías.</li>
+    <li> ¡Colaborar en un proyecto open-source para aprender de la comunidad!</li>
   </ul>
 </div>
 
@@ -68,12 +68,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+-  Fun fact: ...
 -->
