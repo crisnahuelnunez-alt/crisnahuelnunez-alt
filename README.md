@@ -1,79 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZvaDBwZXZoNTA3NG9wY3dld3g5M3NsdWNkaHNxcnptdnB5Mmk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hO/giphy.gif" width="200"/>
-  <h1 align="center">Hola, soy Nahuel 👋</h1>
-  <h3 align="center">Un futuro programador, construyendo mi camino.</h3>
-</div>
+# 💫 About Me:
+Hola, soy Nahuel 👋<br>Un futuro programador, construyendo mi camino.<br>Mi Viaje como Programador<br>Actualmente estoy inmerso en el fascinante mundo del desarrollo, aprendiendo las tecnologías fundamentales para dar vida a ideas. Mi objetivo es dominar tanto el desarrollo frontend como el backend para crear aplicaciones completas y funcionales.<br><br>Tecnologías que estoy aprendiendo<br>HTML5 CSS3 Java Python<br><br>Mis Próximos Pasos<br>solidified> Fortalecer mis bases en HTML y CSS para crear interfaces web atractivas.<br>Profundizar en Java para entender la programación orientada a objetos y el desarrollo de backend robusto.<br>Aplicar mis conocimientos de Python para crear mis primeros scripts y proyectos de lógica de datos.<br>Construir mi primer proyecto web completo que combine estas tecnologías.<br>¡Colaborar en un proyecto open-source para aprender de la comunidad!<br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nahu.nz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristian-nahuel-nu%C3%B1ez-599491290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:crisnahuelnunez@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=crisnahuelnunez-alt&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=crisnahuelnunez-alt&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crisnahuelnunez-alt&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=crisnahuelnunez-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div id="about-me" align="center">
-  <h2> Mi Viaje como Programador</h2>
-  <p>
-    Actualmente estoy inmerso en el fascinante mundo del desarrollo, aprendiendo las tecnologías fundamentales para dar vida a ideas. Mi objetivo es dominar tanto el desarrollo frontend como el backend para crear aplicaciones completas y funcionales.
-  </p>
-</div>
-
----
-
-<div id="tech-learning">
-  <h2> Tecnologías que estoy aprendiendo</h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </p>
-</div>
-
----
-
-<div id="my-goals">
-  <h2> Mis Próximos Pasos</h2>
-  <ul>
-    <li> solidified> Fortalecer mis bases en <strong>HTML</strong> y <strong>CSS</strong> para crear interfaces web atractivas.</li>
-    <li> Profundizar en <strong>Java</strong> para entender la programación orientada a objetos y el desarrollo de backend robusto.</li>
-    <li> Aplicar mis conocimientos de <strong>Python</strong> para crear mis primeros scripts y proyectos de lógica de datos.</li>
-    <li> Construir mi primer proyecto web completo que combine estas tecnologías.</li>
-    <li> ¡Colaborar en un proyecto open-source para aprender de la comunidad!</li>
-  </ul>
-</div>
-
----
-
-<div id="github-stats" align="center">
-  <h2>📊 Mi Actividad en GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=[tu_usuario]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu_usuario]&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</div>
-
----
-
-<div id="contact">
-  <h2>📫 ¿Conectamos?</h2>
-  <p>
-    Estoy abierto a consejos, mentoría y a conectar con otros desarrolladores. ¡No dudes en contactarme!
-  </p>
-  <p align="center">
-    <a href="mailto:[tu_correo@ejemplo.com]"><img src="https://img.shields.io/badge/Envíame_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-    <a href="https://linkedin.com/in/[tu_usuario_linkedin]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
-</div>
-
-<div align="center">
-  <h3>¡Gracias por tu visita!</h3>
-</div>
-
-<!--
-**crisnahuelnunez-alt/crisnahuelnunez-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
